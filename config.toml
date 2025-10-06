@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { mastodon = "https://social.eike.in/@aikhae" },
-    { github = "https://github.com/LarvenSteib" },
+    { github = "https://github.com/LarvenStein" },
     { link = {href="https://eike.in/", text = "Blog / Home page"} },
     { bluesky = "https://bsky.app/profile/eike.in" },
     { pixelfed = { href = "https://gram.social/aikhae", text = "Pixelfed" }},
