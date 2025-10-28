@@ -19,6 +19,7 @@ disableKinds = ["taxonomy", "term"]
     { link = {href="https://eike.in/", text = "Blog / Home page"} },
     { bluesky = "https://bsky.app/profile/eike.in" },
     { pixelfed = { href = "https://gram.social/aikhae", text = "Pixelfed" }},
+    { traewelling = { href = "https://traewelling.de/@aikhae", text = "Träwelling" }},
     { printables = { href = "https://www.printables.com/@aikhae_1653685", text = "Printables" }},
     { email = "mailto:me@eike.in" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
